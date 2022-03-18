@@ -1,7 +1,7 @@
 body {
   padding-left: 10px;
 }
-
+.nav {margin-rigth:10px;}
 a {color:gray;text-decoration:none;margin-rigth:10px;}
 
 a:hover {text-decoration:underline;}
