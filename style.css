@@ -1,6 +1,10 @@
 body {
   padding-left: 10px;
 }
+textarea::selection {
+	
+	background-color: #FFFACD;
+}
 .wrap {
   display: flex;
   margin-bottom: 5px;
