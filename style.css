@@ -1,6 +1,11 @@
 body {
   padding-left: 10px;
 }
+
+a:link {color:#ff0000;text-decoration:none;}
+
+a:hover {text-decoration:underline;}
+
 textarea:focus {
 	
 	background-color: #FFFACD;
