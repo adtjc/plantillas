@@ -1,7 +1,7 @@
 body {
   padding-left: 10px;
 }
-.num {font-family:monospace; font-weight:bold;}
+.num {font-family:monospace; font-weight:bold; padding-left:4em;}
 .titnum {font-family:monospace;}
 .nav {padding-rigth:10px;}
 a {color:gray;text-decoration:none;margin-rigth:10px;}
