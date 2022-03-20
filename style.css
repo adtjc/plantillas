@@ -24,7 +24,7 @@ textarea {
 
 .button {
     max-height: 300px;
-    background-color: gray;
+    background-color: lightgray;
     border: none;
     
     font-weight: bold;
@@ -40,7 +40,7 @@ textarea {
     transition-duration: 0.4s;
   }
 
-  .button:hover {background-color: LemonChiffon}
+  .button:hover {background-color: lightgreen}
 
   .button:active {
     background-color: #757575;
