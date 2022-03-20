@@ -24,8 +24,9 @@ textarea {
 
 .button {
     max-height: 300px;
-    background-color: #cecece; /* Green */
+    background-color: SlateGray;
     border: none;
+    font-family:monospace;
     color: black;
     padding: 15px 5px;
     text-align: center;
@@ -38,7 +39,7 @@ textarea {
     transition-duration: 0.4s;
   }
 
-  .button:hover {background-color: #4fd34f}
+  .button:hover {background-color: LemonChiffon}
 
   .button:active {
     background-color: #757575;
