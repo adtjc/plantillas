@@ -1,8 +1,8 @@
 body {
   padding-left: 10px;
 }
-span.num {font-family:monospace; font-weight:bold; padding-left:4em;color:SlateGray;}
-span.titnum {font-family:monospace;font-weight:bold;background-color:palegreen;color:SlateGray;}
+span.num {font-family:monospace; font-weight:bold; padding-left:4em;color:black;}
+span.titnum {font-family:monospace;font-weight:bold;background-color:papayawhip;color:black;}
 .nav {padding-rigth:10px;}
 a {color:gray;text-decoration:none;margin-rigth:10px;}
 
