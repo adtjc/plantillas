@@ -24,9 +24,10 @@ textarea {
 
 .button {
     max-height: 300px;
-    background-color: SlateGray;
+    background-color: gray;
     border: none;
-    font-family:monospace;
+    
+    font-weight: bold;
     color: black;
     padding: 15px 5px;
     text-align: center;
